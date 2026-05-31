@@ -1,0 +1,6 @@
+{
+  "name": "MineX Gold, Silver & Bronze",
+  "description": "An elite investor relations, geological resource modeling, global import/export trading desk, and ESG-compliance dashboard for MineX's gold, silver, bronze, copper, and lithium assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
